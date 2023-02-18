@@ -1,0 +1,5 @@
+C:\Users\orteg\OneDrive\Imágenes\Escritorio\aplicada1\EjercicioCap10-12\ejercicio2 Capitulo10\ejercicio2 Capitulon 10\obj\Debug\net6.0\ejercicio2 Capitulon 10.csproj.AssemblyReference.cache
+C:\Users\orteg\OneDrive\Imágenes\Escritorio\aplicada1\EjercicioCap10-12\ejercicio2 Capitulo10\ejercicio2 Capitulon 10\obj\Debug\net6.0\ejercicio2 Capitulon 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orteg\OneDrive\Imágenes\Escritorio\aplicada1\EjercicioCap10-12\ejercicio2 Capitulo10\ejercicio2 Capitulon 10\obj\Debug\net6.0\ejercicio2 Capitulon 10.AssemblyInfoInputs.cache
+C:\Users\orteg\OneDrive\Imágenes\Escritorio\aplicada1\EjercicioCap10-12\ejercicio2 Capitulo10\ejercicio2 Capitulon 10\obj\Debug\net6.0\ejercicio2 Capitulon 10.AssemblyInfo.cs
+C:\Users\orteg\OneDrive\Imágenes\Escritorio\aplicada1\EjercicioCap10-12\ejercicio2 Capitulo10\ejercicio2 Capitulon 10\obj\Debug\net6.0\ejercicio2 Capitulon 10.csproj.CoreCompileInputs.cache
